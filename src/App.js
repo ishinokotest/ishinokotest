@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <main>
-      <h1>Buy Our Products!</h1>
+      <h1>Git Test Buy Our Products!</h1>
       <p>
         {`This demo is in test mode. That means you can check out using any of
         the `}
